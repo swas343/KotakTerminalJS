@@ -9,7 +9,7 @@ var trend = '';
 var quantity = 1;
 var watchlistItem = 4;
 var previousPrice = '4.25';
-var targetPrice = '4.40';
+var targetPrice = '4.30';
 // #######################
 
 var row = $(".slick-row")[watchlistItem];
